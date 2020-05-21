@@ -1,0 +1,8 @@
+[2020-05-21 18:29:21] local.ERROR: Illuminate\View\Engines\PhpEngine::main(): Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Illuminate\\View\\Engines\\PhpEngine::main(): Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') at /var/www/storage/framework/views/219dc15a98c78a3a2df3208ea03c10187e0f4c6d.php:1)
+[stacktrace]
+#0 {main}
+"} 
+[2020-05-21 18:30:07] local.ERROR: Illuminate\View\Engines\PhpEngine::main(): Failed opening required 'header.blade.php' (include_path='.:/usr/local/lib/php') {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Illuminate\\View\\Engines\\PhpEngine::main(): Failed opening required 'header.blade.php' (include_path='.:/usr/local/lib/php') at /var/www/storage/framework/views/219dc15a98c78a3a2df3208ea03c10187e0f4c6d.php:1)
+[stacktrace]
+#0 {main}
+"} 
